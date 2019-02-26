@@ -1,0 +1,82 @@
+body {
+    font-family: 'Josefin Slab', serif;
+    background-color: lightgrey;
+}
+h2, p, .readme-wrapper {
+    text-align: Center;
+}
+a {
+    text-decoration: none;
+    color: black
+}
+.readme-wrapper a:hover {
+    color: blue;
+    font-weight: bold;
+}
+.boxes {
+    display:block;
+    margin:1em;
+    padding:1em;
+    border:2.5px solid rgb(15, 27, 61);
+    border-radius:10px;
+    width:30em;
+}
+.carton {
+    height:50px;
+    width: 50px;
+    border-radius: 50px;
+    background-color: yellow;
+    position: absolute;
+    left:85px;
+}
+.list_box {
+    border:2px solid black;
+
+}
+li {
+    color: rgb(87, 201, 101)
+}
+.star {
+    color: fuchsia;
+}
+#war {
+    color:navy;
+}
+#box1 {
+    background-color:rgb(58, 79, 105); 
+}
+#box2 {
+    background-color:rgb(55, 73, 106);
+}
+
+#box3 {
+    background-color:rgb(55, 73, 107);
+}
+
+#box4 {
+    background-color:rgb(55, 73, 108);
+}
+h1 {
+    color: green;
+}
+.original {
+    color: purple;
+}
+.additional {
+    color: pink;
+}
+#show1 {
+    color: aqua;
+}
+#show2 {
+    color: maroon;
+}
+#show3 {
+    color: navy;
+}
+#show4 {
+    color:yellow;
+}
+#show5 {
+    color: orangered;
+}
